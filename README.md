@@ -1,22 +1,40 @@
+## Hello! 👋 I'm Kazuo Miyajima
 
-## Hello! 👋
+**Technical Editor | Automation Specialist | Linguistics Enthusiast**
 
-Welcome to my GitHub profile! I'm **kazuo-miyajima**, a book editor by profession with a strong interest in programming and technology. Of course, I also sneak in some tech skills into my work from time to time 😁.  
-I have a basic understanding of **Python**, **JavaScript**, and **HTML**. I'm focusing on developing my skills in **backend development** and **data analysis**.
+I bridge the gap between **Professional Publishing** and **Software Engineering**.
+With a background in **Mechanical Engineering (Master's)** and years of experience as a **Book Editor**, I develop tools to automate complex editorial workflows and ensure data-driven linguistic precision.
 
-Currently, I'm working on programming as a side project, but I plan to transition to full-time development in the future. I aim to improve my programming skills further and contribute to open-source projects! If you're interested in collaborating or offering advice, feel free to reach out!
+* 🛠 **What I do:** I don't just edit text; I build Python and JavaScript tools to eliminate repetitive tasks and human errors.
+* 🎓 **Background:** M.E. in Mechanical Engineering + NLP (Natural Language Processing) enthusiast.
+* 🔭 **Current Focus:** Scaling web-based automation tools using **Vue 3** and **TypeScript**.
 
-Looking forward to connecting! 🚀
+### 🛠 Featured Projects
+
+* **[WordList-Generator](https://github.com/kazuo-miyajima/WordList-Generator-Python)**: A Python-based NLP tool for linguistic analysis and textbook editing.
+* **[LinkReplacer](https://github.com/kazuo-miyajima/LinkReplacer)**: A robust JS utility with a visual mapping system for secure batch link migration.
+* **[Excel-to-Web Layout Converter](https://github.com/kazuo-miyajima/Excel-to-Web-Layout-Converter)**: An automation tool to transform complex Excel data into production-ready web components.
+
+### 💻 Skills
+
+* **Languages:** Python (NLP, Data Analysis), JavaScript (ES6+, TypeScript), HTML5/CSS3.
+* **Frameworks:** Vue.js 3 (Composition API).
+* **Specialties:** Workflow Optimization, Regular Expressions (Regex), Technical Writing.
 
 ---
-## こんにちは！👋
 
-GitHubプロフィールにようこそ！私は**kazuo-miyajima**です。普段は書籍編集者として働いていますが、プログラミングやテクノロジーに強い興味を持っています。もちろん、仕事でもこっそり活用しています😁  
-**Python**・**JavaScript**、そして**HTML**に関しては基本的な知識があります。主に**バックエンド開発**や**データ解析**の分野で腕を磨こうと思っています。
+### こんにちは！👋
 
-副業から取り組み、ゆくゆく本格的に開発に取り組んでいきたいと考えています。これからもっとプログラミングスキルを磨いて、オープンソースにも貢献したいと思っています！もしコラボやアドバイスがあれば、ぜひ声をかけてください！
+**テクニカルエディター | 業務自動化スペシャリスト**
 
-どうぞよろしくお願いします！🚀
+機械工学修士としての論理的思考と、書籍編集者としての専門知識を掛け合わせ、**「言葉を扱う実務を、テクノロジーで最適化する」**ことに取り組んでいます。
 
+* ⚡ **強み:** 単なるコード記述ではなく、現場の課題（ミスが許されない編集実務など）を解決するためのツール自作を得意としています。
+* 🔧 **実績:** Pythonによる形態素解析を用いた語彙抽出や、複雑なExcelデータのWebコンポーネント化など、実務直結の自動化ソリューションを開発。
+* 🎯 **目標:** モダンなフロントエンド（Vue 3 / TypeScript）とバックエンド技術を統合し、より高度な言語処理ツールの構築を目指しています。
+やり方は簡単です。
 
+1. 自分のユーザー名と同じ名前のリポジトリ（`kazuo-miyajima/kazuo-miyajima`）を新規作成します。
+2. その中の `README.md` に上記の文章を貼り付けるだけです。
 
+これが完成したら、いよいよ **Alignerrへの応募（英語での自己アピール作成）** に進む準備が100%整います。どちらを次に行いましょうか？
