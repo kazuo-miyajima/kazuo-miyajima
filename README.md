@@ -21,6 +21,15 @@ With a background in **Mechanical Engineering (Master's)** and years of experien
 * **Frameworks:** Vue.js 3 (Composition API).
 * **Specialties:** Workflow Optimization, Regular Expressions (Regex), Technical Writing.
 
+### 📚 Technical Content & Instructional Design
+
+Beyond coding, I specialize in architecting comprehensive technical curricula.
+
+* **[Technical Writing Portfolio: Reskilling Series (2023)](https://github.com/kazuo-miyajima/reskilling-scripts-archive)**: A series of 25+ video scripts covering AI Literacy, No-code Development, and Project Management.
+    * **AI Literacy**: Deconstructed complex concepts like Neural Networks and LLMs for non-technical audiences.
+    * **No-code Mastery**: Comparative analysis and implementation guides for Glide, Adalo, and Bubble.
+    * **PM Practices**: Developed a drama-based curriculum for risk management and team building using the Tuckman model.
+      
 ---
 
 ### こんにちは！👋
